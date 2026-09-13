@@ -1,2 +1,1 @@
-# Appdev-Alysa-Erich-Alvarez
-My first GitHub repository for App Dev.
+Alysa Erich S. Alvarez BSIT BLK-B i want to learn how to code 
